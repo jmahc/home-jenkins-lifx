@@ -1,0 +1,35 @@
+{
+  "name": "home-jenkins-lifx",
+  "version": "0.1.0",
+  "description": "Testing a home deployment of Jenkins with LIFX bulbs.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmahc/home-jenkins-lifx.git"
+  },
+  "keywords": [
+    "jenkins",
+    "lifx",
+    "react",
+    "webpack"
+  ],
+  "author": {
+    "name": "Jordan McArdle",
+    "email": "jmcardle@valexander.com",
+    "url": "http://mcardle.tech/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmahc/home-jenkins-lifx/issues"
+  },
+  "homepage": "https://github.com/jmahc/home-jenkins-lifx#readme",
+  "devDependencies": {
+    "autoprefixer": "^7.1.2",
+    "cross-env": "^5.0.1",
+    "webpack": "^3.3.0",
+    "webpack-merge": "^4.1.0"
+  }
+}
